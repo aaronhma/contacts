@@ -1,0 +1,53 @@
+{
+  "name": "Firebolt Contacts",
+  "icons": [
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "2.5"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "3.5"
+    },
+    {
+      "src": "https://screencastsonline.com/public_images/01-new/SCOM0498-summary-icon-100x100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ]
+}
